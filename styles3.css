@@ -1,0 +1,38 @@
+header {font-size: 160%;
+    font-style: bold ;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2%;
+    background-color:cadetblue;}
+    
+    input {width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        font-family:'Courier New', Courier, monospace ;}
+    
+    div {
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px;
+        font-family: 'Courier New', Courier, monospace;
+      }
+      textarea {
+        width: 100%;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+      }
+      select {
+        width: 100%;
+        font-family: 'Courier New', Courier, monospace;
+      }
+      label {
+        width: 100%;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+      }
+      button {
+        font-weight: bold;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 100%;
+      }
