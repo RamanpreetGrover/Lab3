@@ -1,0 +1,12 @@
+header {
+    font-size: 300%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+    text-align: center;
+    margin: auto ;
+    padding: 5%;
+}
+iframe {
+    display: block;
+    margin: 0 auto
+}
