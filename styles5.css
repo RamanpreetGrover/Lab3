@@ -1,0 +1,36 @@
+header {
+    font-size: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    margin: auto ;
+    padding: 2%;
+    background-color: aqua;
+}
+nav {
+    padding: 2%;
+    margin-top: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+main {
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid black;
+
+}
+h2 {
+    font-size: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: auto;
+       
+}
+footer {
+    font-size: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
